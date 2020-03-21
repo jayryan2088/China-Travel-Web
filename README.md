@@ -13,19 +13,19 @@
 ### 5.代码结构说明
 #### 技术选型
 ##### Web层
-  a)Servlet：前端控制器
-  b)html：视图
-  c)Filter：过滤器
-  d)BeanUtils：数据封装
-  e)Jackson：json序列化工具
+  1. Servlet：前端控制器
+  2. html：视图
+  3. Filter：过滤器
+  4. BeanUtils：数据封装
+  5. Jackson：json序列化工具
 ##### Service层
-  f)Javamail：java发送邮件工具
-  g)Redis：nosql内存数据库
-  h)Jedis：java的redis客户端
+  1. Javamail：java发送邮件工具
+  2. Redis：nosql内存数据库
+  3. Jedis：java的redis客户端
 ##### Dao层
-  i)Mysql：数据库
-  j)Druid：数据库连接池
-  k)JdbcTemplate：jdbc的工具
+  1. Mysql：数据库
+  2. Druid：数据库连接池
+  3. JdbcTemplate：jdbc的工具
 
 (引入代码块)
 ### 6.常见问题说明
